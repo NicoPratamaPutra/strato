@@ -1,8 +1,8 @@
-IF ON WINDOWS, CLONE WITH SYMLINKS ENABLED
-git clone -c core.symlinks=true https://github.com/NicoPratamaPutra/strato.git --recursive
-REFERENCE:
-- https://github.com/strato-emu/strato/blob/master/BUILDING.md
-- https://cal.com/docs/developing/local-development#development-setup-and-production-build
+<p>IF ON WINDOWS, CLONE WITH SYMLINKS ENABLED</p>
+<p>git clone -c core.symlinks=true https://github.com/NicoPratamaPutra/strato.git --recursive</p>
+<p>REFERENCE:</p>
+<p>- https://github.com/strato-emu/strato/blob/master/BUILDING.md</p>
+<p>- https://cal.com/docs/developing/local-development#development-setup-and-production-build</p>
 
 <h1 align="center">
     <a href="https://github.com/strato-emu/strato" target="_blank">
