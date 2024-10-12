@@ -1,4 +1,5 @@
 <p>IF ON WINDOWS, CLONE WITH SYMLINKS ENABLED</p>
+<p>Make sure to run this command in "ADMINISTRATOR" command/terminal prompt</p>
 <p>git clone -c core.symlinks=true https://github.com/NicoPratamaPutra/strato.git --recursive</p>
 <p>REFERENCE:</p>
 <p>- https://github.com/strato-emu/strato/blob/master/BUILDING.md</p>
