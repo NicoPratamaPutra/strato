@@ -1,3 +1,9 @@
+IF ON WINDOWS, CLONE WITH SYMLINKS ENABLED
+git clone -c core.symlinks=true https://github.com/NicoPratamaPutra/strato.git --recursive
+REFERENCE:
+- https://github.com/strato-emu/strato/blob/master/BUILDING.md
+- https://cal.com/docs/developing/local-development#development-setup-and-production-build
+
 <h1 align="center">
     <a href="https://github.com/strato-emu/strato" target="_blank">
         <img height="60%" width="60%" src="https://raw.github.com/strato-emu/branding/master/banner/strato-banner-rounded.png"><br>
